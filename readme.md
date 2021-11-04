@@ -9,6 +9,7 @@ To use this script, just download it and run it as an administrator . Please be 
 1. Enter the  IP of the Machine you'd like to connect to
 2. Enter the session ID you'd like to connect to
 3. Respond with Y/N to indicate if you'd like to control the session
+4. The session will launch
 
 
 ## Prerequisites
